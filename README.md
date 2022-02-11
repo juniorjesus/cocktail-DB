@@ -1,7 +1,7 @@
 # Buscador de Cocktel
 Aplicación React Firebase :smile: CRUD usando Hooks ⭐ con base de datos no relacional en tiempo real :computer:
 
-![image]()
+![image](https://res.cloudinary.com/djbaqvlnn/image/upload/v1644603004/block-master/Captura_de_pantalla_2022-02-11_130524_cvoack.jpg)
 
 ## Operaciones CRUD usando Firebase Reference
 
@@ -23,14 +23,52 @@ Aplicación React Firebase :smile: CRUD usando Hooks ⭐ con base de datos no re
 
 Esta página tiene:
 
-- una matriz de tutoriales que se muestra como una lista a la izquierda.
-- un Tutorial seleccionado que se muestra a la derecha.
+- una lista de objetos de las propiedades del producto.
 
-![image]()
+![image](https://res.cloudinary.com/djbaqvlnn/image/upload/v1644603004/block-master/Captura_de_pantalla_2022-02-11_130558_lgkoty.jpg)
+
+
+![image](https://res.cloudinary.com/djbaqvlnn/image/upload/v1644603004/block-master/Captura_de_pantalla_2022-02-11_130629_c35qdq.jpg)
+
+
+## Iniciando el proyecto  🚀
+
+Descargar el proyecto mediante Github Desktop o GitBash realizando una clonación, o descargando
+en como archivo zip y abriendo la carpeta en su editor de codigos
+
+
+## Instalación 🔧
+
+En la terminal del proyecto correr los seiguentes comandos:
+
+### `npm install`
+
+Con este comando instalamos las dependencias del proyecto
+
+### `yarn start`
+
+Con yarn start iniciamos el servidor el puerto predeterminado es:
+[http://localhost:3000]
+
+ya tenemos nuestro proyecto corriendo en el navegador.
+
 
 ## Demo
 
-[React Firebase Hooks Crud]()
+[React Cocktail-DB](https://cocktail-db-gilt.vercel.app/)
+
+
+## Construido con 🛠️
+
+las herramientas utlizadas en este proyecto son:
+
+- bootstrap
+- react
+- react-dom
+- react-router-dom
+- react-scripts
+- redux-thunk
+- Api (https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=)
 
 ## Autor ✒️
 
